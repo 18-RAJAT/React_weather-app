@@ -59,9 +59,9 @@
 }
 
 .card-text{
-  color: rgb(0, 0, 0);
+  color: rgb(250, 245, 245);
 }
 
 .card-text:hover{
-  background-color: rgba(7, 255, 48, 0.466);
+  background-color: rgb(150, 27, 207);
 }
